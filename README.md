@@ -7,8 +7,9 @@ As a developer I thought it might be a great idea to have a portfolio since It g
 - Services
 - Skills
 - and Contact.
+- 
  ** On the top of this home page, there is a navigation bar which contains a Portfolio logo on the left and few nav links on the right. 
- Below the navigation bar is are text that contains my name, profession and a button that says "Contact Me".**
+ Below the navigation bar is are text that contains my name, profession and a button that says "Contact Me". **
 
 ## Designed this Portfolio website using Html, CSS and JavaScript....
 - Html, to designed the structure of the website
